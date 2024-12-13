@@ -1,0 +1,58 @@
+
+body{
+    background-color:#737CA1;
+    text-align:center;
+}
+
+.header{
+    background-color:white;
+    text-align:center;
+    padding:10px;
+}
+
+h1{
+    font-size:50px;
+}
+
+img{
+    width:500px;
+    border: 15px double black;
+    margin:10px;
+}
+
+p{
+    color:white;
+    font-size:25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-img{
+    float:left;
+    width:200px;
+    height:200px;
+    margin-left:100px;
+}
+
+.text-img-right{
+    float:right;
+    width:200px;
+    height:200px;
+    margin-right:100px;
+}
+
+.nav-bar{
+    background-color:#402F1D;
+    margin:-10px , 10px,10px,10px;
+    font-size: 25px;
+    padding:10px;
+}
+
+td{
+    border:3px solid black;
+    padding:5px;
+}
+
+#frame-maps{
+    height:250px;
+    width:100%;
+}
